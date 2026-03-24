@@ -1,51 +1,51 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "notes": "See the assets to download and install this version.",
-  "pub_date": "2026-03-24T11:55:00.928Z",
+  "pub_date": "2026-03-24T14:51:52.707Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTcrbUtFWGVIRzlvZDFnWm53SzNjd1pYb1VGRVczbDZnVWtRTmdJd1lFdDhaZkNyT2VyNVptdVhjN3lXengwcU5wSWpzUTh4MFBYb3c5WXdWUldHOGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUyNzk5CWZpbGU6UGFsZXR0ZSBTdHVkaW8uYXBwLnRhci5negpsYUQxRUtPSE1LdkRpRTFKa3ljUjVPL01MTmFrR3gvenlVdE1LWTh3Q091VVBhMTI4NWZ1ZmNWT1VWd0d3K2RZcHVjK01kRHhCak1NSHFUZWtNMUlEZz09Cg==",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTBTU09BTDRrUHlydTdDRVR0bXlOaVlnK2hYWTgySWk1VWFHNlBKOG5LM3R3bnRsTG10VGJYV1kvSmxmeUl2YVltYkdCTlczMlR1MHcwNFRCNmwrWnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzNTIxCWZpbGU6UGFsZXR0ZSBTdHVkaW8uYXBwLnRhci5negorcDZyUTNhL1ZFeVVCaXdSSVcwdlBOdnh4UE0xRlUrWjIwdER5b0Vmdk1FUmVleE9OTy94VExyMHdmYktmcW50WjhKT2NiWGJZYjJaTmY5eWdDcWRBdz09Cg==",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTcrbUtFWGVIRzlvZDFnWm53SzNjd1pYb1VGRVczbDZnVWtRTmdJd1lFdDhaZkNyT2VyNVptdVhjN3lXengwcU5wSWpzUTh4MFBYb3c5WXdWUldHOGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUyNzk5CWZpbGU6UGFsZXR0ZSBTdHVkaW8uYXBwLnRhci5negpsYUQxRUtPSE1LdkRpRTFKa3ljUjVPL01MTmFrR3gvenlVdE1LWTh3Q091VVBhMTI4NWZ1ZmNWT1VWd0d3K2RZcHVjK01kRHhCak1NSHFUZWtNMUlEZz09Cg==",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTBTU09BTDRrUHlydTdDRVR0bXlOaVlnK2hYWTgySWk1VWFHNlBKOG5LM3R3bnRsTG10VGJYV1kvSmxmeUl2YVltYkdCTlczMlR1MHcwNFRCNmwrWnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzNTIxCWZpbGU6UGFsZXR0ZSBTdHVkaW8uYXBwLnRhci5negorcDZyUTNhL1ZFeVVCaXdSSVcwdlBOdnh4UE0xRlUrWjIwdER5b0Vmdk1FUmVleE9OTy94VExyMHdmYktmcW50WjhKT2NiWGJZYjJaTmY5eWdDcWRBdz09Cg==",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_universal.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTcrbUtFWGVIRzlvZDFnWm53SzNjd1pYb1VGRVczbDZnVWtRTmdJd1lFdDhaZkNyT2VyNVptdVhjN3lXengwcU5wSWpzUTh4MFBYb3c5WXdWUldHOGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUyNzk5CWZpbGU6UGFsZXR0ZSBTdHVkaW8uYXBwLnRhci5negpsYUQxRUtPSE1LdkRpRTFKa3ljUjVPL01MTmFrR3gvenlVdE1LWTh3Q091VVBhMTI4NWZ1ZmNWT1VWd0d3K2RZcHVjK01kRHhCak1NSHFUZWtNMUlEZz09Cg==",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTBTU09BTDRrUHlydTdDRVR0bXlOaVlnK2hYWTgySWk1VWFHNlBKOG5LM3R3bnRsTG10VGJYV1kvSmxmeUl2YVltYkdCTlczMlR1MHcwNFRCNmwrWnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzNTIxCWZpbGU6UGFsZXR0ZSBTdHVkaW8uYXBwLnRhci5negorcDZyUTNhL1ZFeVVCaXdSSVcwdlBOdnh4UE0xRlUrWjIwdER5b0Vmdk1FUmVleE9OTy94VExyMHdmYktmcW50WjhKT2NiWGJZYjJaTmY5eWdDcWRBdz09Cg==",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_universal.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTcrbUtFWGVIRzlvZDFnWm53SzNjd1pYb1VGRVczbDZnVWtRTmdJd1lFdDhaZkNyT2VyNVptdVhjN3lXengwcU5wSWpzUTh4MFBYb3c5WXdWUldHOGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUyNzk5CWZpbGU6UGFsZXR0ZSBTdHVkaW8uYXBwLnRhci5negpsYUQxRUtPSE1LdkRpRTFKa3ljUjVPL01MTmFrR3gvenlVdE1LWTh3Q091VVBhMTI4NWZ1ZmNWT1VWd0d3K2RZcHVjK01kRHhCak1NSHFUZWtNMUlEZz09Cg==",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTBTU09BTDRrUHlydTdDRVR0bXlOaVlnK2hYWTgySWk1VWFHNlBKOG5LM3R3bnRsTG10VGJYV1kvSmxmeUl2YVltYkdCTlczMlR1MHcwNFRCNmwrWnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzNTIxCWZpbGU6UGFsZXR0ZSBTdHVkaW8uYXBwLnRhci5negorcDZyUTNhL1ZFeVVCaXdSSVcwdlBOdnh4UE0xRlUrWjIwdER5b0Vmdk1FUmVleE9OTy94VExyMHdmYktmcW50WjhKT2NiWGJZYjJaTmY5eWdDcWRBdz09Cg==",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_universal.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTNYdUxNZXhwWTlzWmVRQXg1OUozdWMyUGJWNko2a1JRMjBiUTRxQ3RTcjJwWENwZ25VVTd1RnMxSnRrZ2t1ckF1K1ArSHh2WHlzUmE4MFlMWXNvVXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUyOTYzCWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjBfYW1kNjQuQXBwSW1hZ2UKN0dVcmR1bVFjM3RYaHJGVHpUWGlYR01ub2VFQzkvR1RZeWxmRytibHJTakFVc3hpMEZvNkltOWpFOHpicFI0dFFxeTIwRU4raW91UXA3TUxkcHZ0QlE9PQo=",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_0.2.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTdWMXBuTEQxc2dISXN6SE84dVBRdUt4bDl3UE5FRU9UT0o1SXJhQjMvajNhTTFWazVJcDc3c0tTUVJDbUVXSFFPL3BRTGtMOTUvSWpsOEVkRFZ0U0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzNTkzCWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjFfYW1kNjQuQXBwSW1hZ2UKZk9ReHh4R2Z2ZE9Qbmw0bVJCVTRFUU5rWjAyRFgrNzVPaVZERmtpZ2tGdUpaTXE2SEg4endpdmk2TlV0M0N0SkZxQU9XZEtZNERHMkxXTndEUkk1Q2c9PQo=",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_0.2.1_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTNYdUxNZXhwWTlzWmVRQXg1OUozdWMyUGJWNko2a1JRMjBiUTRxQ3RTcjJwWENwZ25VVTd1RnMxSnRrZ2t1ckF1K1ArSHh2WHlzUmE4MFlMWXNvVXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUyOTYzCWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjBfYW1kNjQuQXBwSW1hZ2UKN0dVcmR1bVFjM3RYaHJGVHpUWGlYR01ub2VFQzkvR1RZeWxmRytibHJTakFVc3hpMEZvNkltOWpFOHpicFI0dFFxeTIwRU4raW91UXA3TUxkcHZ0QlE9PQo=",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_0.2.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTdWMXBuTEQxc2dISXN6SE84dVBRdUt4bDl3UE5FRU9UT0o1SXJhQjMvajNhTTFWazVJcDc3c0tTUVJDbUVXSFFPL3BRTGtMOTUvSWpsOEVkRFZ0U0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzNTkzCWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjFfYW1kNjQuQXBwSW1hZ2UKZk9ReHh4R2Z2ZE9Qbmw0bVJCVTRFUU5rWjAyRFgrNzVPaVZERmtpZ2tGdUpaTXE2SEg4endpdmk2TlV0M0N0SkZxQU9XZEtZNERHMkxXTndEUkk1Q2c9PQo=",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_0.2.1_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTREQ3ZjMHdFZ3ovanVVL3FyUDBvc1U0R1QxbGg1R09RS1d3RWhhdE9DRUFtNnhNaHRpOTlRV253bE9sOXdRRmhHaUpiY1dkSXV5c2JuazZXWGJOaEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUyOTYzCWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjBfYW1kNjQuZGViCld6K0VVYjY2WGE2REtSL1o1emltVXorTUd1OC8xWG5aM2E2QS9RekJsNUJ1Wk96cDZwTmxobmRHVjBOVldkN2FZNjZWZ29ON21KTm5QUDl1WEV0WUJnPT0K",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_0.2.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTcyS2lPY0pUcXVwY0YxQ1VxS2UvSFRic044eVF0NE52dVFRVGg2SjF5aWppVGp6YUlIUFh0eFpaYjdFbWQ5OU1sWlpRNXVNZXo1djlzL0VneHdON3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzNTkzCWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjFfYW1kNjQuZGViCi9GczlSQnY5d0pZRUZLZnpubVd5MkJLeU1rby8rSTZHNC84WkNWRnlBdmxpcGJGZGxxVjVsMjl0aStNUlBlUzBtQktCVnBuczc3cXp4czh2c1F0Q0FnPT0K",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_0.2.1_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNSswRTZrWXlXZmRxSnV4RCtmWGdBdGRqTG5rRlljMmlqTWw4Q0NWNjBJVjlaTUxhbXlubmJTbnlzWEV0d3FQVVdjRnZpbU9oaVlkZ1JaUGFGek5haUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUyOTYzCWZpbGU6UGFsZXR0ZSBTdHVkaW8tMC4yLjAtMS54ODZfNjQucnBtCjAzRU0vQTlnVkpYV2ZFYWpPZ1lkTUZmRXpoaUVNMWdNMjEyQWs4TFFQc0hyT1ludldHc0xBQW9MdlA2dDZYamNZOXhCaDNOMWVzeHpaU2pvTi9Vd0NRPT0K",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio-0.2.0-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTJBdE1YZEhzRzhjcENhbVcwOVUxTVFpODIzU0p4enRyQ0xwa2dJeEtkUlFrL1RoYVl6d1FmRnJoWnpuZlJJYkFFcDVneUdvRGNxWUV0aGM0SzJacWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzNTkzCWZpbGU6UGFsZXR0ZSBTdHVkaW8tMC4yLjEtMS54ODZfNjQucnBtCkRCY1Rhdmk0VG5XeUIxK0JHVDlFcjNWL0VnUUxvZkwyd01Jc2V2S0tzSDVmQVprdzQvUmE1Ym9EK2RQQnJzcWFmcEFtSC9TQ1FJYms5bUY1Zkg0YUNRPT0K",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio-0.2.1-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNS9WdytBZ3kyejBlMzNFTW1RNEtkdE8reVdod215eVJ2OW5TUTdFeUJIUDRCdUZqZWdkVHQ5QU5hbDUveXRqSkd1YTVocTRNVm11ckU0WWlkOG9ENmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUzMjk3CWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjBfeDY0X2VuLVVTLm1zaQpzZzRhbnVWVERWK1hDZTM4K05PZXAyK1BtcTdRamtOVU5KS0NnMWh5NzFqMU8xVFh3azkvcThvU0NTSC9hTUV2cWlQRVdOd09WdjE2N1pITFBXeFdEZz09Cg==",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_0.2.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTlxOUlNVmEwSWZtRzJQMGpUL2pPTUU2YmFlVkNkT0VmbXpQVXdKWkQwNmQ0dXZBUGpsSkNBa2k3aWNIN1djL0VwWFppSFJWdmk3T1I2dVpmOWp6SWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzOTA4CWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjFfeDY0X2VuLVVTLm1zaQpDdVJSOWh1N2QxSnBBOUJnZ3NzUzNmb05JUU1ybUtKTXJnMVlQWVZKTVJ2VEZZeGpsK294RE8vODM1N1hmMHJ2VUM3K0hKUUpoUW90cFZKZWpIZ2NDQT09Cg==",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_0.2.1_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNS9WdytBZ3kyejBlMzNFTW1RNEtkdE8reVdod215eVJ2OW5TUTdFeUJIUDRCdUZqZWdkVHQ5QU5hbDUveXRqSkd1YTVocTRNVm11ckU0WWlkOG9ENmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUzMjk3CWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjBfeDY0X2VuLVVTLm1zaQpzZzRhbnVWVERWK1hDZTM4K05PZXAyK1BtcTdRamtOVU5KS0NnMWh5NzFqMU8xVFh3azkvcThvU0NTSC9hTUV2cWlQRVdOd09WdjE2N1pITFBXeFdEZz09Cg==",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_0.2.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTlxOUlNVmEwSWZtRzJQMGpUL2pPTUU2YmFlVkNkT0VmbXpQVXdKWkQwNmQ0dXZBUGpsSkNBa2k3aWNIN1djL0VwWFppSFJWdmk3T1I2dVpmOWp6SWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzOTA4CWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjFfeDY0X2VuLVVTLm1zaQpDdVJSOWh1N2QxSnBBOUJnZ3NzUzNmb05JUU1ybUtKTXJnMVlQWVZKTVJ2VEZZeGpsK294RE8vODM1N1hmMHJ2VUM3K0hKUUpoUW90cFZKZWpIZ2NDQT09Cg==",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_0.2.1_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNTNrNjZZRFZQcXk1Wk1STVpVYU5yVnBGem9XT0FxOXd0SzYwUjMwc0Jna3RkM2pSQWNZUkx0Yk1Hajhiei9KQ1ZML0Qya2NCVmtaSlExUysrQVpzNGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzUzMjk3CWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjBfeDY0LXNldHVwLmV4ZQpTZEdtaDVSWlBtR05FendIR3lJOTlodzVXc3ZYYXB6dEIwQWlRQjZjaS9TTVVlcmp6cnI4eTRkZkx6M3hWYlhvM3Nxak9zcDZlNWlNTTJOMk5rVHNCUT09Cg==",
-      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.0/Palette.Studio_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeHoza2RaYWpMNXdJWUROYmFqcVpnMTJrT21XaVMwbXBGUEtCeEQwR3pCL25nc200V2xYMUp1SmtlWHVlTGgyR1FCUTB3Z3BZc2NVODQ4MGJEQ0JZeUpUT2xhcVlRandZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzYzOTA4CWZpbGU6UGFsZXR0ZSBTdHVkaW9fMC4yLjFfeDY0LXNldHVwLmV4ZQpsc1hoZkpUK1NXZlNZZUZLZnZPcFN6bkh4NS9keEEyOGM0aE8vdkNFQlZrNGVlY2RpeE1uWFpkZXltMHAwamdleERFai9PVnVCTkt5QitySmk0VGdEdz09Cg==",
+      "url": "https://github.com/usepalette/palette-studio-releases/releases/download/v0.2.1/Palette.Studio_0.2.1_x64-setup.exe"
     }
   }
 }
